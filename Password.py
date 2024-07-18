@@ -33,4 +33,4 @@ for _ in range(length3):
 password = alphabets + str(numbers) + str(special_characters)
 
 # Printing the final random string
-print(password)
+print("The generated password is: ",password)
