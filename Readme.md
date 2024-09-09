@@ -1,1 +1,1 @@
-# This is a simple Password Generator. 
+# This is a simple Python based Password Generator. 
